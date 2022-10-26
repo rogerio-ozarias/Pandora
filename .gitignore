@@ -1,1 +1,2 @@
-/public/assets/docx/documentos/*.docx
+*.docx
+!template.docx
