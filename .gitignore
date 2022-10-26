@@ -1,2 +1,2 @@
-*.log
-!important.log
+*.docx
+!template.docx
