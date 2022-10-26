@@ -2,5 +2,8 @@
 
 $ composer install
 
-$ composer dump-autoload
 
+
+# Iniciar o docker
+
+$ docker-compose up -d
