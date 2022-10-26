@@ -1,7 +1,8 @@
 # Instalação
 
-$ composer install
+$ git clone https://github.com/rogerio-ozarias/Pandora.git
 
+$ composer install
 
 
 # Iniciar o docker
