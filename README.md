@@ -11,6 +11,8 @@ $ composer install
 
 $ docker-compose up -d
 
+* Servidor rodando na porta 8000 - http://localhost:8000
+
 **Desenvolvimento**
 * php-7.4
 * arquivo com o template fica em **/public/assets/docx/template.docx**
