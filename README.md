@@ -2,6 +2,8 @@
 
 $ git clone https://github.com/rogerio-ozarias/Pandora.git
 
+$ cd Pandora
+
 $ composer install
 
 
